@@ -19,7 +19,7 @@ No bugs yet.
 * jQuery
 
 ## Live link
-https://cian747.github.io/delani-studio/
+https://cian747.github.io/portfolio/
 
 ## Support and contact details
 Want to collaborate? Do you have any query? Reach me on sean12ka@gmail.com. 
